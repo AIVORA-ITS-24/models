@@ -26,3 +26,5 @@ pipe.fit(X, y)
 # Predict for a new person
 prediction = pipe.predict([[52, 200]])
 print("Prediction:", prediction)
+
+#
