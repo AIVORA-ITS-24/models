@@ -26,3 +26,5 @@ pipeline.fit(X, y)
 # Predict
 prediction = pipeline.predict([[28, 50000]])
 print("Prediction:", prediction)
+
+#
